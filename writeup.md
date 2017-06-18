@@ -15,23 +15,28 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/chess_orginal.jpg?raw=true "chess original"
-[image2]: ./output_images/chess_undistort.jpg "chess undistort"
-[image3]: ./output_images/road_orginal.jpg "road original"
-[image4]: ./output_images/road_undistort.jpg "road undistort"
-[image5]: ./output_images/thresholding.jpg "threshold pipline"
-[image6]: ./output_images/perspective_transform.jpg "perspective transform"
-[image7]: ./output_images/hls.jpg "hls"
-[image8]: ./output_images/final_combined.jpg "final_combined"
-[image9]: ./output_images/final_roa_applied.jpg "final_roa_applied"
-[image10]: ./output_images/polyfit.jpg "polyfit"
-[image11]: ./output_images/boundries_applied.jpg "boundries applied"
-[image12]: ./output_images/boundries_withtext.jpg "boundries withtext"
-[image13]: ./output_images/histogram.jpg "histogram"
+[image1]: ./output_images/chess_orginal.jpeg "chess original"
+[image2]: ./output_images/chess_undistort.jpeg "chess undistort"
+[image3]: ./output_images/road_orginal.jpeg "road original"
+[image4]: ./output_images/road_undistort.jpeg "road undistort"
+[image5]: ./output_images/thresholding.jpeg "threshold pipline"
+[image6]: ./output_images/perspective_transform.jpeg "perspective transform"
+[image7]: ./output_images/hls.jpeg "hls"
+[image8]: ./output_images/final_combined.jpeg "final_combined"
+[image9]: ./output_images/final_roa_applied.jpeg "final_roa_applied"
+[image10]: ./output_images/polyfit.jpeg "polyfit"
+[image11]: ./output_images/boundries_applied.jpeg "boundries applied"
+[image12]: ./output_images/boundries_withtext.jpeg "boundries withtext"
+[image13]: ./output_images/histogram.jpeg "histogram"
 
 [video1]: ./project_output.mp4 "Video"
+[Final_Submission_Advance_Lane_Finding_Video_Pipeline.ipynb]: ./examples/Final_Submission_Advance_Lane_Finding_Video_Pipeline.ipynb "Final Code"
+[Advance_lane_finding_Submission_Test_Images_and_llustration.ipynb]: ./examples/Advance_lane_finding_Submission_Test_Images_and_llustration.ipynb "Test Code"
 
-##### Note : In the below discussion I will be using `Advance lane finding Submission- Test Images and illustration.ipynb` code file for illustration purpose. The final video pipeline code is in the file `Final_Submission_Advance Lane Finding_Video_Pipeline.ipynb`
+### Note : In the below discussion I will be using [Advance_lane_finding_Submission_Test_Images_and_llustration.ipynb](./examples/Advance_lane_finding_Submission_Test_Images_and_llustration.ipynb) code file for illustration purpose. The final video pipeline code is in the file [Final_Submission_Advance Lane_Finding_Video_Pipeline.ipynb](./examples/Final_Submission_Advance_Lane_Finding_Video_Pipeline.ipynb)
+
+
+
 
 ### Camera Calibration and Undistortion
 
