@@ -33,7 +33,10 @@ The goals / steps of this project are the following:
 [Final_Submission_Advance_Lane_Finding_Video_Pipeline.ipynb]: ./examples/Final_Submission_Advance_Lane_Finding_Video_Pipeline.ipynb "Final Code"
 [Advance_lane_finding_Submission_Test_Images_and_llustration.ipynb]: ./examples/Advance_lane_finding_Submission_Test_Images_and_llustration.ipynb "Test Code"
 
-### Note : In the below discussion I will be using [Advance_lane_finding_Submission_Test_Images_and_llustration.ipynb](./examples/Advance_lane_finding_Submission_Test_Images_and_llustration.ipynb) code file for illustration purpose. The final video pipeline code is in the file [Final_Submission_Advance Lane_Finding_Video_Pipeline.ipynb](./examples/Final_Submission_Advance_Lane_Finding_Video_Pipeline.ipynb)
+### Note : In the below discussion I will be using [Advance_lane_finding_Submission_Test_Images_and_llustration.ipynb](./examples/Advance_lane_finding_Submission_Test_Images_and_llustration.ipynb) code file for illustration purpose. 
+
+
+### The final video pipeline code is in the file [Final_Submission_Advance Lane_Finding_Video_Pipeline.ipynb](./examples/Final_Submission_Advance_Lane_Finding_Video_Pipeline.ipynb)
 
 
 
@@ -102,7 +105,7 @@ I used peaks in histogram technique to the detect lanes.
 
 And then used sliding window to identify the left and right lanes. A 2nd order polynomial is fitted with the points obtained.
 
-![alt text][image13]
+![alt text][image10]
 
 Ref code cell (In [129], [128], [116])
 
