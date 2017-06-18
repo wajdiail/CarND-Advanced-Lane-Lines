@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/chess_orginal.jpg "chess original"
+[image1]: ./output_images/chess_orginal.jpg?raw=true "chess original"
 [image2]: ./output_images/chess_undistort.jpg "chess undistort"
 [image3]: ./output_images/road_orginal.jpg "road original"
 [image4]: ./output_images/road_undistort.jpg "road undistort"
